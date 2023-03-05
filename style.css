@@ -1,0 +1,158 @@
+body {
+    display: flex;
+    flex-direction: column;
+    font-family: 'Roboto', sans-serif;
+}
+
+.section1 {
+    background-color: rgb(13, 44, 13);
+    display: flex;
+    flex-direction: column;
+    padding: 10px 80px 100px;
+}
+
+.header {
+    font-size: 24px;
+    color: #F9FAF8;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 100px;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    gap: 15px;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.text1, .header2 {
+    font-weight: 700;
+}
+
+.media {
+    color: #F9FAF8;
+    display: flex;
+    align-items: flex-start;
+}
+
+.media-object {
+    margin-left: 1em;
+    order: 1;
+    flex: 1;
+}
+
+img {
+    width: 100vw;
+    height: auto;
+    max-width:50%;
+}
+
+.media-body {
+    flex: 1;
+}
+
+.text1 {
+    font-size: 48px;
+    font-weight: extra-bold;
+}
+
+button {
+    background-color: #3882F6;
+    color: white;
+    display: flex;
+    margin-top: 8px;
+    padding: 4px 20px;
+    border-radius: 5px;
+    border-style: none;
+}
+
+.section2 {
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+}
+
+.header2 {
+    font-size: 36px;
+    font-weight: extra-bold;
+    color: #1F2937;
+    text-align: center;
+    padding: 25px;
+}
+
+.child img {
+    width: 100vw;
+    height: auto;
+    max-width: 100%;
+}
+
+.container {
+    display: flex;
+    flex: 1;
+    gap: 30px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-bottom: 60px;
+    margin: 10px 100px;
+}
+
+.author {
+    font-weight: bold;
+    text-align: end;
+    font-size: 24px;
+}
+
+.section3 {
+    background-color: #E5E7EB;
+    font-size: 36px;
+    color: #1F2937;
+    padding: 50px 150px;
+}
+
+.section4 {
+    display: flex;
+    background-color: rgb(82, 1, 82);
+    color: white;
+    margin: 70px 100px;
+    border-radius: 4px;
+    padding: 35px 80px;
+    gap: 30px;
+    justify-content: space-between;    
+    align-items: center;
+}
+
+.title{
+    font-size: 20px;
+    font-weight: 900;
+    padding-bottom: 2px;
+}
+
+button1 {
+    background-color: rgb(167, 96, 167);
+    color: white;
+    display: flex;
+    padding: 4px 20px;
+    border-radius: 5px;
+    border: 1px solid white;
+}
+
+.footer {
+    background-color: #1F2937;
+    color: white;
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    min-width: 100%;
+}
