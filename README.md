@@ -1,8 +1,8 @@
-Speech Therapy Informational Website
+## Speech Therapy Informational Website
 
 What this project is: I have built a website utilizing HTML and CSS to provide an overview of the services that a Speech Therapist offers.
 
-What skills I have demonstrated upon completing this:
+## What skills I have demonstrated upon completing this:
 
 HTML
 External CSS Stylesheet 
