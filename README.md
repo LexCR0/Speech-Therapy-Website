@@ -6,6 +6,6 @@ What this project is: I have built a website utilizing HTML and CSS to provide a
 
 HTML
 External CSS Stylesheet 
- - Flexbox to display information in rows, and allow text and images to grow and shrink with the size of the  
+ - Header, Footer, Unordered list, Images, Button
+ - Flexbox to display information in rows, and to allow text and images to grow and shrink with the size of the
    browser
-Images: jpg
